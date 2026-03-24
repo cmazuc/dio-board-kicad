@@ -1,0 +1,10 @@
+KiCad symbol and footprint for Hewlett-Packard DIO cards used in HP 9000 series 200 and 300 computers. The footprint includes the full outline for an internal card modeled on the 98257-66254 RAM card.
+
+Notes:
+ - SPARE pins are left unconnected as per the DIO specification
+ - DGND ("dirty" ground) is left unconnected
+
+If you have a copy of the HP 9000 Series 200/300 Computers Accessory Development Guide (09800-90011) please contact me at chris@mazuc.net. The docs I used for reference were mostly the DIO II Accessory Development Guide (98562-90010) and DIO Bus Specification (5955-7669).
+
+TODO:
+ - STL for the ejection levers
